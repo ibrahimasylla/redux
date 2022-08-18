@@ -6,3 +6,6 @@ export const store = configureStore({
     counter: counterReducer,
   },
 });
+const store = configureStore({
+  
+})
